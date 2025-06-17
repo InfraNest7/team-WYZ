@@ -1,24 +1,43 @@
-# Welcome to My Markdown Experiment
+# Welcome to WYZ Project Documentation
 
-This file shows how to add images along with text.
-
-## Images Gallery
-
-### Cute Cat
-![Cute Cat](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg)
-
-### Nature Scene
-![Nature](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=60)
+Welcome to the official documentation for the **WYZ Project**. This portal provides all the essential information, guidelines, and technical details to help you understand and contribute effectively to WYZ.
 
 ---
 
-## More Features
+## About WYZ
 
-- Mix text with images easily
-- Use headings, lists, links
-- Markdown works great for docs, blogs, and notes
-
-Feel free to replace these URLs with your own images!
+The WYZ Project is dedicated to delivering cutting-edge solutions that streamline business operations and enhance productivity across industries.
 
 ---
-Thanks for experimenting with Markdown!
+
+## Project Highlights
+
+- Scalable architecture built with modern technologies  
+- User-friendly interfaces designed for optimal experience  
+- Secure and reliable data handling
+
+---
+
+## Architecture Overview
+
+![WYZ System Architecture](./images/wyz-architecture.png)
+
+The above diagram illustrates the modular components of WYZ and how they interact to provide seamless service.
+
+---
+
+## Getting Started
+
+To get started with WYZ, refer to the [Setup Guide](setup-guide.md) and [API Reference](api-reference.md).
+
+---
+
+## Contact & Support
+
+For further assistance, contact the WYZ support team.
+
+![Support Icon](./images/support-icon.png)
+
+---
+
+Thank you for being part of the WYZ journey!
