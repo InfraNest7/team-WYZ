@@ -1,22 +1,27 @@
-# Welcome to My Experiment
+# Welcome to My Markdown Experiment
 
-This is a simple **Markdown** file to try out some formatting.
+This file shows how to add images along with text.
 
-## Features
+## Images Gallery
 
-- Easy to write
-- Supports **bold** and *italic* text
-- Create lists, links, and images
-- Great for documentation and notes
-
-## Example Link
-
-Check out [OpenAI](https://openai.com) for more info.
-
-## Image Example
-
+### OpenAI Logo
 ![OpenAI Logo](https://openai.com/favicon.ico)
+
+### Cute Cat
+![Cute Cat](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg)
+
+### Nature Scene
+![Nature](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=60)
 
 ---
 
-Thanks for trying Markdown!
+## More Features
+
+- Mix text with images easily
+- Use headings, lists, links
+- Markdown works great for docs, blogs, and notes
+
+Feel free to replace these URLs with your own images!
+
+---
+Thanks for experimenting with Markdown!
