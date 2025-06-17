@@ -4,10 +4,6 @@ This file shows how to add images along with text.
 
 ## Images Gallery
 
-### OpenAI Logo
-![OpenAI Logo](https://openai.com/static/images/openai-logo.png)
-
-
 ### Cute Cat
 ![Cute Cat](https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg)
 
