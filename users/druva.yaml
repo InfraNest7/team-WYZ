@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Druva
+spec:
+  profile:
+    displayName: Druva
+    email: druv0806@gmail.com
+  memberOf: [wyz]

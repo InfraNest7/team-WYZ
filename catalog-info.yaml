@@ -7,5 +7,5 @@ spec:
   targets:
     - ./components/hello-world-service.yaml
     - ./groups/team-wyz.yaml
-    - ./users/alice.yaml
-    - ./users/bob.yaml
+    - ./users/ravish.yaml
+    - ./users/druva.yaml

@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ravish
+spec:
+  profile:
+    displayName: Ravish
+    email: druv1404@gmail.com
+  memberOf: [wyz]
