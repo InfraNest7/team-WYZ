@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: wyz-project
+  description: Root catalog for WYZ project
+spec:
+  targets:
+    - ./components/hello-world-service.yaml
+    - ./groups/team-wyz.yaml
+    - ./users/alice.yaml
+    - ./users/bob.yaml
