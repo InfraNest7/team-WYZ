@@ -8,6 +8,6 @@ spec:
   profile:
     displayName: WYZ Team
     email: wyz@gmail.com
-  members:
-    - Ravish
-    - Druva
+  children:
+    - user:ravish
+    - user:druva
