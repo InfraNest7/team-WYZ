@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: druva
+  annotations:
+    backstage.io/email: druv0806@gmail.com
 spec:
   profile:
     displayName: Druva
