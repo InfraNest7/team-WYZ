@@ -3,9 +3,9 @@ kind: User
 metadata:
   name: ravish
   annotations: 
-    backstage.io/email: druv1404@gmail.com
+    backstage.io/email: ravish@nighthack.in
 spec:
   profile:
     displayName: Ravish
-    email: druv1404@gmail.com
+    email: ravish@nighthack.in
   memberOf: [wyz]
