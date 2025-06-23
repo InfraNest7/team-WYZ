@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: WYZ-Service
+  name: WYZ-Platform
   description: A simple service to experiment with Backstage
   tags:
     - example
