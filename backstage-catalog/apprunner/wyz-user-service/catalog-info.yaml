@@ -10,4 +10,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: WYZ Team
+  owner: group:wyz
