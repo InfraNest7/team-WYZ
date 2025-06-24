@@ -14,4 +14,5 @@ spec:
     - ./backstage-catalog/lightsail-databases/wyz-api-staging-db/catalog-info.yaml
     - ./backstage-catalog/lightsail-instances/wyz-api-testing/catalog-info.yaml
     - ./backstage-catalog/lightsail-instances/wyz-staging-cache/catalog-info.yaml
+    - ./backstage-catalog/wyz-mis/catalog-info.yaml
 
