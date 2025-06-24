@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: wyz-api-host
+  name: wyz-api-testing
   description: Lightsail instance hosting the public API
   tags:
     - lightsail
