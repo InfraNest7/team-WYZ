@@ -10,4 +10,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: wyz/platform
+  owner: WYZ-Platform
