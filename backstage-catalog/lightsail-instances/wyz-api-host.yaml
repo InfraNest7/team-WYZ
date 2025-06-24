@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: wyz-api-host
+  description: Lightsail instance hosting the public API
+  tags:
+    - lightsail
+    - compute
+spec:
+  type: service
+  lifecycle: production
+  owner: WYZ-Platform
