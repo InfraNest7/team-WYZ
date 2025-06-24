@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-  name: wyz-user-db
+  name: wyz-api-staging-db
   description: Lightsail PostgreSQL database for user data
   tags:
     - lightsail
