@@ -9,5 +9,5 @@ spec:
     displayName: WYZ Team
     email: wyz@gmail.com
   children:
-    - User:ravish
-    - User:druva
+    - user:ravish
+    - user:druva
