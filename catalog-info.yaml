@@ -12,6 +12,6 @@ spec:
     - ./backstage-catalog/apprunner/listmonk-mail-service/catalog-info.yaml
     - ./backstage-catalog/apprunner/wyz-api-staging-apprunner/catalog-info.yaml
     - ./backstage-catalog/lightsail-databases/wyz-api-staging-db/catalog-info.yaml
-    - ./backstage-catalog/lightsail-instance/wyz-api-testing/catalog-info.yaml
+    - ./backstage-catalog/lightsail-instances/wyz-api-testing/catalog-info.yaml
     - ./backstage-catalog/lightsail-instances/wyz-staging-cache/catalog-info.yaml
 
