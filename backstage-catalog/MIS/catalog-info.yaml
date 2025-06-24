@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: wyz-mis
+  description: Financial management system for the WYZ project
+  tags:
+    - financial
+    - mis
+    - wyz
+  annotations:
+    backstage.io/ec2-instance-id: i-069e856588fbccb5a
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: production
+  owner: group:wyz
+  system: wyz-cloud
