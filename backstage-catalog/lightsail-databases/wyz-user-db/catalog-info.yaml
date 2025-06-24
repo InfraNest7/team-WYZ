@@ -8,5 +8,5 @@ metadata:
     - postgres
 spec:
   type: database
-  owner: WYZ Team
+  owner: group:wyz
   system: wyz-cloud
