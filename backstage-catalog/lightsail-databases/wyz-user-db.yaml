@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: wyz-user-db
+  description: Lightsail PostgreSQL database for user data
+  tags:
+    - lightsail
+    - postgres
+spec:
+  type: database
+  owner: WYZ-Platform
+  system: wyz-cloud
