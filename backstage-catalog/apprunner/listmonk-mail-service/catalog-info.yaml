@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: wyz-user-service
-  description: User service running on AWS App Runner
+  name: listmonk-mail-service
+  description: listmonk mail service running on AWS App Runner
   tags:
     - apprunner
     - aws
