@@ -1,4 +1,4 @@
-# Wyz project documentation
+# Wyz 
 
 Welcome to the official documentation for the **WYZ Project**. This portal provides all the essential information, guidelines, and technical details to help you understand and contribute effectively to WYZ.
 
