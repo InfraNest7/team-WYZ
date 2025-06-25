@@ -9,6 +9,9 @@ metadata:
     - wyz
   annotations:
     aws.amazon.com/ec2-instance-id: i-069e856588fbccb5a
+    aws.amazon.com/arn: arn:aws:ec2:ap-south-1:147997125398:instance/i-069e856588fbccb5a
+    aws.amazon.com/region: ap-south-1
+    aws.amazon.com/name: wyz-mis
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
