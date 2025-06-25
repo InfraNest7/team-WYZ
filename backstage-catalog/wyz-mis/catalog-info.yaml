@@ -8,7 +8,7 @@ metadata:
     - mis
     - wyz
   annotations:
-    backstage.io/ec2-instance-id: i-069e856588fbccb5a
+    aws.amazon.com/ec2-instance-id: i-069e856588fbccb5a
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
