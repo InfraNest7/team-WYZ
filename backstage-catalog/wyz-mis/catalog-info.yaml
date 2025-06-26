@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: wyz-mis
+  annotations:
+    backstage.io/techdocs-ref: value
   description: EC2 instance i-069e856588fbccb5a
   tags:
     - ec2
