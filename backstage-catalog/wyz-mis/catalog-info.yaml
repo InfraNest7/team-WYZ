@@ -2,19 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: wyz-mis
-  description: Financial management system for the WYZ project
+  description: EC2 instance i-069e856588fbccb5a
   tags:
-    - financial
-    - mis
-    - wyz
-  annotations:
-    aws.amazon.com/ec2-instance-id: i-069e856588fbccb5a
-    aws.amazon.com/arn: arn:aws:ec2:ap-south-1:147997125398:instance/i-069e856588fbccb5a
-    aws.amazon.com/region: ap-south-1
-    aws.amazon.com/name: wyz-mis
-    backstage.io/techdocs-ref: dir:.
+    - ec2
+    - wyz-mis
 spec:
   type: service
   lifecycle: production
-  owner: group:wyz
-  system: wyz-cloud
+  owner: wyz-mis
+  system: default-system
