@@ -5,7 +5,6 @@ metadata:
   description: Root catalog for WYZ project
 spec:
   targets:
-    - ./components/service.yaml
     - ./groups/team-wyz.yaml
     - ./users/ravish.yaml
     - ./users/druva.yaml
