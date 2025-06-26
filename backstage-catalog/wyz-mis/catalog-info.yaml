@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: wyz-mis
+  owner: WYZ Team
   system: default-system
